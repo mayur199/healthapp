@@ -2,6 +2,6 @@
 public class Health {
 
 	public static void main(String[] args) {
-		System.out.println("Mayur");
+		System.out.println("Mayur chanegs");
 	}
 }
